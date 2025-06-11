@@ -3,7 +3,7 @@
     "global": {
       "colors": {
         "primary": {
-          "value": "#ffA500",
+          "value": "#FF1F8F",
           "type": "color"
         },
         "primary-hover": {
